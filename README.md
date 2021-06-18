@@ -12,18 +12,6 @@
 
 -------
 
-**📝 Latest Personal Public Projects**
-
-<!-- PROJECT-LIST:START -->
-- [grandFilter/iFilter](https://github.com/grandFilter/iFilter)
-- [imjeen/rc-tricks](https://github.com/imjeen/rc-tricks)
-- [imjeen/v-tricks](https://github.com/imjeen/v-tricks)
-- [imjeen/work-cli](https://github.com/imjeen/work-cli)
-- [imjeen/gl](https://github.com/imjeen/gl)
-<!-- PROJECT-LIST:END -->
-
--------
-
 **🌐 Github Activities**
 
 <p>
