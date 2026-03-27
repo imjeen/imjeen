@@ -11,9 +11,7 @@
 - 🧑‍💻 Tech I work on :
   <!-- https://github.com/tandpfun/skill-icons -->
   <p align="center">
-        <a href="https://skillicons.dev">
-              <img src="https://skillicons.dev/icons?i=css,html,js,ts,vue,react,nextjs,nodejs,npm,pnpm,jest,nestjs,vite,webpack,babel,flutter,dart,bash,git,docker,figma,md,svg,vscode,notion,apple" />
-        </a>
+    <img src="https://skillicons.dev/icons?i=css,html,js,ts,vue,react,nextjs,nodejs,npm,pnpm,jest,nestjs,vite,webpack,babel,flutter,dart,bash,git,docker,figma,md,svg,vscode,notion,apple" /> 
   </p>
 
 ---
@@ -27,7 +25,7 @@
 <img src="https://streak-stats.demolab.com?user=imjeen&theme=vue-dark" art="GitHub Streak" />
 <br />
 <br />
-<img src="https://github-readme-stats.vercel.app/api?username=imjeen&show_icons=true&theme=dracula&hide=stars,issues" art="GitHub Stats" />
+<img src="https://github-readme-stats-trinibs-projects.vercel.app/api?username=imjeen&show_icons=true&theme=vue-dark&border_color=599200" art="GitHub Stats" />
 </p>
 
 <h2 align="center">🤝 Support</h2>
