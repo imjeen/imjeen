@@ -5,7 +5,7 @@
 ### <img src="./assets/Developer.gif" width="35" /> About Me:
 
 - 🧑🏻‍💻 I’m working on **a company with AI-driven image-and-video processing technologies**
-- 🌴 I’m learning about **Flutter, WebGL and Go**
+- 🌴 I’m learning about **Flutter, WebGPU and Go**
 - 💬 Ask me about **Vue/React, TypeScript and Node**
 - 🐳 Moreover: I'm always looking for something valuable and meaningful to do
 - 🧑‍💻 Tech I work on :
